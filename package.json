@@ -1,0 +1,25 @@
+{
+  "name": "rr-api",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CyrilHskt/RR-API.git"
+  },
+  "author": "Cyril Hskt",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CyrilHskt/RR-API/issues"
+  },
+  "homepage": "https://github.com/CyrilHskt/RR-API#readme",
+  "dependencies": {
+    "koa": "^2.5.2"
+  },
+  "devDependencies": {
+    "nodemon": "^1.18.3"
+  }
+}
